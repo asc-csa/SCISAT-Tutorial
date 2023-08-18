@@ -58,8 +58,6 @@ En complément de ce tutoriel, vous pouvez trouver une implémentation simple d'
 
 Veuillez noter que les prédictions et les résultats statistiques contenus dans ce tutoriel n'ont pas fait l'objet d'un examen scientifique par les pairs et ne doivent pas être utilisés à l'appui d'une analyse ou d'une publication scientifique.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 
 # SCISAT-Tutorial
 
