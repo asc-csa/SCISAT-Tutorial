@@ -22,8 +22,8 @@
     </a>
 </p>
 
-- [En Français](#SCISAT-Tutoriel)
-- [In English](#SCISAT-Tutorial)
+- [Français](#SCISAT-Tutoriel)
+- [English](#SCISAT-Tutorial)
 
 # SCISAT-Tutoriel
 
