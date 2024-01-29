@@ -57,6 +57,8 @@ As an addition to this tutorial, you can find a simple implementation of a predi
 
 Please be advised that the predictions and statistical results contained in this tutorial have not been scientifically peer-reviewed and should not be used to support any scientific analysis or publication.
 
+***
+
 # SCISAT-Tutoriel
 
 ## Contexte
