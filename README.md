@@ -135,7 +135,7 @@ While this tutorial uses ozone data, there is a large selection of datasets of d
 
 > **Note:** If plots or maps do not display, restart Jupyter Notebook or run `%matplotlib inline` in the first cell.
 
-## Features
+## Functionality
 
 ### SCISAT Ozone Concentration Prediction Model
 
